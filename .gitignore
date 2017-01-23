@@ -1,11 +1,11 @@
 bin/*
 .settings
 /.metadata
-/.recommends
+/.recommenders
 /lesson_02
-/lesson_1
-/lesson_2
-/lesson_3
+/lesson1
+/lesson2
+/lesson3
 /ppj_05
 /ppj_06
 /ppj_07
@@ -18,3 +18,11 @@ bin/*
 /ppj_15
 /ppj_17
 /ppj_19
+/test1
+/test2
+/test3
+/test4
+/test5
+/test6
+/test7
+/test8
