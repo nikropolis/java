@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RSA.java&apos; to &apos;skj_task2_Client/src/skj_task2&apos;&#x0D;&#x0A;- Original project: &apos;test_cryptography3&apos;&#x0D;&#x0A;- Destination element: &apos;skj_task2_Client/src/skj_task2&apos;&#x0D;&#x0A;- Original element: &apos;test_cryptography3.RSA.java&apos;" description="Copy compilation unit" destination="=skj_task2_Client/src&lt;skj_task2" element1="/src&lt;test_cryptography3{RSA.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1481063334119" units="1" version="1.0"/>
+</session>

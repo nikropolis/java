@@ -1,0 +1,42 @@
+package app;
+
+import java.net.URL;
+import java.util.ResourceBundle;
+
+//import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
+import javafx.fxml.Initializable;
+import javafx.scene.control.TextArea;
+import javafx.scene.control.TextField;
+import javafx.scene.input.KeyEvent;
+
+public class Controller 
+implements Initializable
+{
+
+	
+    @FXML
+    private TextField fxIn;
+
+    @FXML
+    private TextArea fxOut;
+    
+    public void keyAction(KeyEvent ke){
+    	if( ke.getText().equals( "\n" ) )
+    		System.out.print( "ENTER" );
+    }
+    
+    
+	@Override
+	public void initialize(URL location, ResourceBundle resources) {
+		fxOut.setText("K I L L A __ H E A R ! \n");
+		fxOut.appendText("greatings!\n");
+		fxOut.appendText("¬ведите адрес хоста\n");
+//		fxOut.setDisable(true);
+//		fxOut.appendText(".!.\n");
+	}
+	
+    public Controller(){
+    	System.out.println(". Controller constructor");
+    }
+}

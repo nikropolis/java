@@ -1,0 +1,1 @@
+"agent 1"( "ip"("127.0.0.1"), "port"("6666"), "neighbours"( "agent 2"( "ip"("127.0.0.1"), "port"("6660")), "agent 3"( "ip"("192.67.4.1"), "port"("12346"))), "measurements"( "voltage"("4.2V"), "power"("7KW"))) 

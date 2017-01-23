@@ -1,0 +1,19 @@
+package lesson3;
+
+public class Main3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ListArray l = new ListArray();
+		
+		for(int i = 10; i > 0; i--)
+		{
+			l.add(i);
+		}
+		
+		l.show();
+		
+	}
+
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.rcp.databinding.ui.contentproviders.UpdateStrategyPropertiesUiContentProvider">
+		<item value="false" key="Target strategy expanded state"/>
+		<item value="false" key="Model strategy expanded state"/>
+	</section>
+</section>

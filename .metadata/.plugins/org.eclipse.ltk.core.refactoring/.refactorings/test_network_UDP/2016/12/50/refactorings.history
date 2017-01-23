@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;network_DNS&apos; to &apos;network_UDP&apos;&#x0D;&#x0A;- Original project: &apos;test_network_DNS&apos;&#x0D;&#x0A;- Original element: &apos;test_network_DNS/src/network_DNS&apos;&#x0D;&#x0A;- Renamed element: &apos;test_network_DNS/src/network_UDP&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;network_DNS&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;network_DNS" name="network_UDP" qualified="false" references="true" stamp="1481049006306" textual="false" version="1.0"/>
+</session>

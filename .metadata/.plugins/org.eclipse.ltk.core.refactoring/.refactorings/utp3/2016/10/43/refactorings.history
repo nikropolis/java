@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;utp3.func.java&apos; to &apos;Func.java&apos;&#x0D;&#x0A;- Original project: &apos;utp3&apos;&#x0D;&#x0A;- Original element: &apos;utp3.func.java&apos;&#x0D;&#x0A;- Renamed element: &apos;utp3.Func.java&apos;" description="Rename compilation unit &apos;func.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;utp3{func.java" name="Func.java" references="false" stamp="1476863448388" version="1.0"/>
+</session>
