@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 3 elements to &apos;graph2/src/guru.nidi.graphviz&apos;&#x0D;&#x0A;- Original project: &apos;greph&apos;&#x0D;&#x0A;- Destination element: &apos;graph2/src/guru.nidi.graphviz&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     attribute&#x0D;&#x0A;     engine&#x0D;&#x0A;     model" description="Copy folders" destination="=graph2/src&lt;guru.nidi.graphviz" element1="graphviz-java-master/src/main/java/guru/nidi/graphviz/attribute" element2="graphviz-java-master/src/main/java/guru/nidi/graphviz/engine" element3="graphviz-java-master/src/main/java/guru/nidi/graphviz/model" files="0" flags="589830" folders="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1479247253161" units="0" version="1.0"/>
-</session>

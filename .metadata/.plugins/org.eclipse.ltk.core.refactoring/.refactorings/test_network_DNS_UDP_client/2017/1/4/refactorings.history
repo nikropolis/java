@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;DNSClient.java&apos; to &apos;skj_task3_Client/src/app&apos;&#x0D;&#x0A;- Original project: &apos;test_network_DNS_UDP_client&apos;&#x0D;&#x0A;- Destination element: &apos;skj_task3_Client/src/app&apos;&#x0D;&#x0A;- Original element: &apos;test_DNS_UDP_client.DNSClient.java&apos;" description="Copy compilation unit" destination="=skj_task3_Client/src&lt;app" element1="/src&lt;test_DNS_UDP_client{DNSClient.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1485012622608" units="1" version="1.0"/>
-</session>

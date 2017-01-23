@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;config.txt&apos; to &apos;skj_task1&apos;&#x0D;&#x0A;- Original project: &apos;skj_task1&apos;&#x0D;&#x0A;- Destination element: &apos;skj_task1&apos;&#x0D;&#x0A;- Original element: &apos;config.txt&apos;" description="Copy file" destination="=skj_task1" element1="src/skj_task1/config.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1480080128156" units="0" version="1.0"/>
-</session>
